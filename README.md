@@ -10,7 +10,8 @@
 
 
 <h3>🚀 About Me</h3> 
-<h4>Greetings,
+<h4> Greetings,
+
 
 I am Ali Mahmoud, a dedicated student currently enrolled at HIMIT Kafr-Elsheikh. My academic journey has been focused on the exploration of languages, programming, and extensive reading. Over the past year, I have immersed myself in the realm of web development, with a particular emphasis on front-end technologies.
 
