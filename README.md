@@ -10,11 +10,9 @@
 
 
 <h3>🚀 About Me</h3> 
-<h4> 
-I am Ali Mahmoud, a dedicated student currently enrolled at HIMIT Kafr-Elsheikh. My academic journey has been focused on the exploration of languages, programming, and extensive reading. Over the past year, I have immersed myself in the realm of web development, with a particular emphasis on front-end technologies.
+<h4> I am Ali Mahmoud, a dedicated student currently enrolled at HIMIT Kafr-Elsheikh. My academic journey has been focused on the exploration of languages, programming, and extensive reading. Over the past year, I have immersed myself in the realm of web development, with a particular emphasis on front-end technologies.
 
-My proficiency spans a comprehensive array of languages and frameworks, including HTML, CSS, JavaScript, Sass, React JS, Bootstrap 5, Tailwind CSS, Git, and GitHub, among others. The knowledge and experience acquired during this period have equipped me with a robust skill set in web development.
-</h4>
+My proficiency spans a comprehensive array of languages and frameworks, including HTML, CSS, JavaScript, Sass, React JS, Bootstrap 5, Tailwind CSS, Git, and GitHub, among others. The knowledge and experience acquired during this period have equipped me with a robust skill set in web development.</h4>
 
 
 <!-- <h4> I'm Ali Mahmoud from Egypt. I'm a Computer Science Student and Junior Front-End Developer. </h4> -->
