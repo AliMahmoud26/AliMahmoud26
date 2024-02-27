@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!, 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> -->Welcome To My Github Profile ♥</h1>
+<h1 align="center">Hi there! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> -->Welcome To My Github Profile ♥</h1>
 <!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Amr, Welcome To My Github Profile ♥  -->
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
 
@@ -10,7 +10,7 @@
 
 
 <h3>🚀 About Me</h3> 
-<h4> I am Ali Mahmoud, a dedicated student currently enrolled at HIMIT Kafr-Elsheikh. My academic journey has been focused on the exploration of languages, programming, and extensive reading. Over the past year, I have immersed myself in the realm of web development, with a particular emphasis on front-end technologies. My proficiency spans a comprehensive array of languages and frameworks, including HTML, CSS, JavaScript, Sass, React JS, Bootstrap 5, Tailwind CSS, Git, and GitHub, among others. The knowledge and experience acquired during this period have equipped me with a robust skill set in web development.</h4>
+<h4> I am Ali Mahmoud, a dedicated student currently enrolled at HIMIT Kafr-Elsheikh. My academic journey has been focused on the exploration of languages, programming, and extensive reading. Over the past year, I have immersed myself in the realm of web development, with a particular emphasis on front-end technologies. My proficiency spans a comprehensive array of languages and frameworks, including HTML, CSS, JavaScript, Sass, React JS, TypeScript, Bootstrap 5, Tailwind CSS, Git, and GitHub, among others. The knowledge and experience acquired during this period have equipped me with a robust skill set in web development.</h4>
 
 
 <!-- <h4> I'm Ali Mahmoud from Egypt. I'm a Computer Science Student and Junior Front-End Developer. </h4> -->
