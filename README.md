@@ -10,7 +10,10 @@
 
 
 <h3>🚀 About Me</h3> 
-<h4> I'm a Passionate frontend developer skilled in building dynamic, user-friendly web applications using React and Next.js. I aim to leverage my technical expertise and creative problem-solving abilities to build scalable, responsive applications that enhance user experience. Looking for opportunities to further develop my skills, contribute to impactful projects, and grow within collaboratives and forward-thinking teams.
+<h4> I'm a computer science graduate with strong experience in full-stack development and software engineering.
+Proficient in Java, Python, and JavaScript, with hands-on experience building scalable applications. Skilled in
+problem-solving, system design, and developing efficient, high-performance solutions. Passionate about
+creating reliable and scalable software that delivers real value.
 </h4>
 
 
@@ -35,6 +38,9 @@
 ![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-181717?style=flat-square&logo=express.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=mongodb)
 <!-- ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000) -->
